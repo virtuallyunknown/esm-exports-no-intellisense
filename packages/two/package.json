@@ -1,0 +1,9 @@
+{
+    "name": "@repo/two",
+    "version": "1.0.0",
+    "author": "me",
+    "type": "module",
+    "dependencies": {
+        "@repo/one": "*"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "@repo/one",
+    "version": "1.0.0",
+    "author": "me",
+    "type": "module",
+    "exports": {
+        ".": {
+            "import": "./src/index.js"
+        }
+    }
+}

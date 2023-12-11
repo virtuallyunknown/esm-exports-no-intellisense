@@ -1,0 +1,9 @@
+{
+    "name": "esm-exports-no-intellisense",
+    "version": "1.0.0",
+    "author": "me",
+    "type": "module",
+    "workspaces": [
+        "packages/*"
+    ]
+}
