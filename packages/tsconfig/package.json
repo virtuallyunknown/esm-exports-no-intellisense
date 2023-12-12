@@ -1,0 +1,9 @@
+{
+    "name": "@repo/tsconfig",
+    "version": "1.0.0",
+    "author": "me",
+    "type": "module",
+    "exports": {
+        "./*.json": "./src/*.json"
+    }
+}

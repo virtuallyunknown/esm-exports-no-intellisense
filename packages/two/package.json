@@ -5,5 +5,8 @@
     "type": "module",
     "dependencies": {
         "@repo/one": "*"
+    },
+    "devDependencies": {
+        "@repo/tsconfig": "*"
     }
 }
